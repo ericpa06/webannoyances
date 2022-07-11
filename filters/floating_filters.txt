@@ -3314,7 +3314,6 @@ fee.org##.fee-header.full-menu, .fee-header.full-menu.initial-menu:style(padding
 fee.org##.fee-header:style(position: static !important; height: 110px !important; -webkit-box-align: end !important; align-items: flex-end !important; box-shadow: none !important; margin-bottom: 0 !important;)
 fee.org##.ribbon.trending-stories:style(position: absolute !important;)
 fee.org##.slidebar:style(position: absolute !important; min-width: 218px !important;)
-feedly.com###searchBarFX, .fixed-bar:style(position: absolute !important;)
 feld.com###sidebar1:style(position: absolute !important;)
 fibrowomen.com###nav-mobile:style(position: absolute !important;)
 fidelity.com##.fixed.scoreCardFloatingWrapper:style(position: relative !important;)
